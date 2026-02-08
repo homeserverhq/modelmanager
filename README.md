@@ -1,5 +1,6 @@
-Model manager for Ollama
+Model Manager v1 for Ollama
 
+<img width="1429" height="2279" alt="Screenshot 2026-02-07 211904" src="https://github.com/user-attachments/assets/2a20cf3b-6c6c-4438-ac72-b25a6ca0ad31" />
 
 
 
