@@ -1,0 +1,11 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      no_cache: true
+    restart: unless-stopped
+    ports:
+      - 8080:80
+    environment:
+      - OLLAMA_HOST=0.0.0.0
